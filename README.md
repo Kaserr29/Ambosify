@@ -1,1 +1,1 @@
-# Ambosify
+# Dijkstrify
